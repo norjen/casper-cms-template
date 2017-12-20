@@ -6,18 +6,19 @@ This is really exciting !!
 
 Wow how easy ;-)
 
-    $answer = read-host "Select All or single server"  
+```
+$answer = read-host "Select All or single server"
 
     switch ($answer) {
-
+    
         1 {$rebootChoice = "noaction"  }
-
+    
         2 {$rebootChoice = "stop"  }
-
+    
         3 {$rebootChoice = "restart"  }
-
+    
         Default {Write-Error "No valid input submitted"}
-
+    
     }
 
- 
+```
