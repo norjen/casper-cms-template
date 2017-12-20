@@ -15,19 +15,24 @@ canonifyurls = true
   author = "jns ngrd"
   authorlocation = "Copenhagen, Denamek"
   authorwebsite = "https://www.nrgrd.com"
-  bio= "my bio"
+  bio= "Azure IaaS Specialist - passion an old passion for SharePoint and O365"
   logo = "images/logo.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "norjen"
+  #githubName = "norjen"
   twitterName = "sharepointdk"
   # facebookName = ""
-  # linkedinName = ""
+  linkedinName = "jnorgaard"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
     twitter = "your_twitter"
+    
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
 
 [[menu.main]]
   name = "My Blog"
