@@ -6,7 +6,8 @@ This is really exciting !!
 
 Wow how easy ;-)
 
-```
+```PowerShell
+
 $answer = read-host "Select All or single server"
 
     switch ($answer) {
@@ -22,3 +23,4 @@ $answer = read-host "Select All or single server"
     }
 
 ```
+
