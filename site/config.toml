@@ -10,9 +10,9 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "how ngrd gets things done"
+  description = "how nrgrd gets things done"
   cover = "images/cover2.jpg"
-  author = "jns ngrd"
+  author = "jns nrgrd"
   authorlocation = "Copenhagen, Denamek"
   authorwebsite = "https://www.nrgrd.com"
   bio= "Azure IaaS and DevOps Specialist - with an old passion for SharePoint and O365"
@@ -38,7 +38,7 @@ canonifyurls = true
   name = "My Blog"
   weight = -120
   identifier = "blog"
-  url = "/"
+  url = "/#content"
 
 [[menu.main]]
   name = "About me"
