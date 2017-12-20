@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "nrgrd"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+disqusShortname = "norjen"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -15,7 +15,7 @@ canonifyurls = true
   author = "jns ngrd"
   authorlocation = "Copenhagen, Denamek"
   authorwebsite = "https://www.nrgrd.com"
-  bio= "Azure IaaS Specialist - passion an old passion for SharePoint and O365"
+  bio= "Azure IaaS and DevOps Specialist - with an old passion for SharePoint and O365"
   logo = "images/logo.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
