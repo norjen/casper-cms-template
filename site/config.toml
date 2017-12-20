@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "nrgrd"
 theme = "hugo-theme-casper"
-disqusShortname = "norjen"
+disqusShortname = "nrgrd"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
