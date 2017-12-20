@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "how ngrd gets done"
-  cover = "images/cover.jpg"
+  cover = "images/cover2.jpg"
   author = "jns ngrd"
   authorlocation = "Copenhagen, Denamek"
   authorwebsite = "https://www.nrgrd.com"
