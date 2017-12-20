@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "ngrd"
+title = "nrgrd"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "how ngrd gets done"
+  description = "how ngrd gets things done"
   cover = "images/cover2.jpg"
   author = "jns ngrd"
   authorlocation = "Copenhagen, Denamek"
